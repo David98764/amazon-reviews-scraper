@@ -1,0 +1,32 @@
+{
+  "defaults": {
+    "domainCode": "com",
+    "maxPages": 2,
+    "sortBy": "recent",
+    "verifiedOnly": false,
+    "withMediaOnly": false
+  },
+  "domains": {
+    "us": "com",
+    "uk": "co.uk",
+    "de": "de",
+    "fr": "fr",
+    "it": "it",
+    "es": "es",
+    "nl": "nl",
+    "au": "com.au",
+    "ca": "ca",
+    "jp": "co.jp",
+    "mx": "com.mx",
+    "tr": "com.tr",
+    "ae": "ae",
+    "sg": "sg",
+    "sa": "sa"
+  },
+  "network": {
+    "timeoutSeconds": 20,
+    "maxRetries": 3,
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+    "proxy": null
+  }
+}
