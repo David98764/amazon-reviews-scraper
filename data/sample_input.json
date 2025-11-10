@@ -1,0 +1,14 @@
+{
+  "jobs": [
+    {
+      "asins": ["B086K4ZMT3", "B0CGRJNRQ3"],
+      "domainCode": "co.uk",
+      "maxPages": 2,
+      "sortBy": "recent",
+      "filterByKeyword": "good",
+      "verifiedOnly": false,
+      "withMediaOnly": false,
+      "mock": true
+    }
+  ]
+}
